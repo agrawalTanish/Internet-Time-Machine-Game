@@ -77,13 +77,12 @@ Hosted on Netlify:
 
 ## 📸 Screenshots
 
-```md
 ![Game UI](https://github.com/agrawalTanish/Internet-Time-Machine-Game/blob/main/screenshots/i1.png)
 ![Gameplay](https://github.com/agrawalTanish/Internet-Time-Machine-Game/blob/main/screenshots/i2.png)
 ![Gameplay](https://github.com/agrawalTanish/Internet-Time-Machine-Game/blob/main/screenshots/i3.png)
 ![Gameplay](https://github.com/agrawalTanish/Internet-Time-Machine-Game/blob/main/screenshots/i4.png)
 ![Gameplay](https://github.com/agrawalTanish/Internet-Time-Machine-Game/blob/main/screenshots/i5.png)
-```
+
 
 ---
 
