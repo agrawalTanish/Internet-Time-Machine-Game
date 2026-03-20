@@ -78,11 +78,11 @@ Hosted on Netlify:
 ## 📸 Screenshots
 
 ```md
-![Game UI](screenshots/i1.png)
-![Gameplay](screenshots/i2.png)
-![Gameplay](screenshots/i3.png)
-![Gameplay](screenshots/i4.png)
-![Gameplay](screenshots/i5.png)
+![Game UI](./screenshots/i1.png)
+![Gameplay](./screenshots/i2.png)
+![Gameplay](./screenshots/i3.png)
+![Gameplay](./screenshots/i4.png)
+![Gameplay](./screenshots/i5.png)
 ```
 
 ---
